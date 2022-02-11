@@ -1,4 +1,0 @@
-master 에서 작성1
-master 에서 작성2
-master 에서 작성3
-test 에서 작성1
